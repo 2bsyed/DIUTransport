@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Location">
+        <item>Dhanmondi - Sobhanbag</item>
+        <item>Shyamoli Square</item>
+        <item>Technical Mor</item>
+        <item>Majar Road Gabtoli</item>
+        <item>Konabari Bus Stop</item>
+        <item>Eastern Housing</item>
+        <item>Rupnagar</item>
+        <item>Birulia Bus Stand</item>
+        <item>Uttara - Rajlokkhi</item>
+        <item>House building</item>
+        <item>Grand Zamzam Tower</item>
+        <item>Matro Rail</item>
+        <item>Diyabari Bridge</item>
+        <item>Beribadh</item>
+        <item>Birulia</item>
+        <item>Khagan</item>
+        <item>Tongi College Gate Bus Stand</item>
+        <item>Kamar Para</item>
+        <item>Dhour</item>
+        <item>ECB Chattor</item>
+        <item>Kalshi More</item>
+        <item>Mirpur 12</item>
+        <item>Mirpur 10</item>
+        <item>Mirpur 02</item>
+        <item>Mirpur 01 - Sony Cinema Hall</item>
+        <item>Commerce College</item>
+        <item>Gudaraghat</item>
+        <item>Konabari Pukur Par </item>
+        <item>Norshingpur</item>
+        <item>Ghosbag</item>
+        <item>Zirabo</item>
+        <item>Ashulia Bazar</item>
+        <item>Paragram</item>
+        <item>Baipail</item>
+        <item>Polli Biddut</item>
+        <item>Nabinagar</item>
+        <item>Bismail</item>
+        <item>Paragram</item>
+        <item>Dhamrai Bus Stand</item>
+        <item>Kohinur Market</item>
+        <item>Gonosastho</item>
+        <item>Nabinagar</item>
+        <item>Bismail</item>
+        <item>Prantik</item>
+        <item>JU</item>
+        <item>C&amp;B</item>
+        <item>Kolma</item>
+        <item>Charabag</item>
+        <item>Kumkumari</item>
+        <item>Daffodil Smart City</item>
+        <item>Savar Bus Stand</item>
+        <item>Radio Colony</item>
+        <item>Kolma</item>
+        <item>Charabag</item>
+        <item>Kumkumari</item>
+        <item>Chasara</item>
+        <item>sign board</item>
+        <item>sonir akhra</item>
+        <item>saydabad bus stand</item>
+        <item>gulistan</item>
+        <item>Chankharpul</item>
+        <item>Nilkhet</item>
+        <item>New Market</item>
+        <item>kolabagan</item>
+        <item>Green Model Town</item>
+        <item>Bashabo</item>
+        <item>Malibagh Railgate South Bus Stop</item>
+        <item>Rampura Bazaar Bus Stop</item>
+        <item>BTV Center</item>
+        <item>Aftabnagar</item>
+        <item>Badda Suvastu tower</item>
+        <item>Jamuna Furute Park</item>
+        <item>Kuril Bisso Road</item>
+        <item>Khilkhet</item>
+        <item>Akran Bazaar Bus Stand</item>
+        <item>Mirpur Konabari Bus Stop</item>
+        <item>Sony Cinema Hall</item>
+        <item>Gudaraghat</item>
+        <item>Akran</item>
+        <item>Uttara Khalpar Diyabari Bridge</item>
+    </string-array>
+</resources>
